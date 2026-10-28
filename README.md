@@ -1,0 +1,2 @@
+# pythyon-parctice
+ تمارين بايثون
